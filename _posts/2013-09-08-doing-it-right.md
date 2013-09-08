@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Doing it right?"
-description: ""
+description: "first test post using jekyll bootstrap"
 category: 
 tags: []
 ---
